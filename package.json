@@ -1,0 +1,14 @@
+{
+  "name": "fake-server-mh",
+  "version": "1.0.0",
+  "description": "fake-server-mh",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "squad5",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

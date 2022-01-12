@@ -1,0 +1,243 @@
+{
+  "categories": [
+    {
+      "id":1,
+      "category": "pants",
+      "image": "algo",
+      "products": [
+        {
+          "category": "pants",
+          "color": "black",
+          "description": "Pantalon cintura alta con diseño fruncido",
+          "image": "https://i.ibb.co/GTqyW3q/16182964530cb423e806b734fff3580866fa766d96.webp",
+          "Price": 449,
+          "name": "pants1",
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "category": "pants",
+          "color": "gray",
+          "description": "Pantalones de talle alto con fruncido tejido jaspeado recortado",
+          "image": "https://i.ibb.co/CKR630Q/1614061485b23832345e013c6ab88dd6c82429c47f.webp",
+          "Price": 320,
+          "name": "pants2",
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "category": "pants",
+          "color": "brown",
+          "description": "Pantalones acampanados con costura delantera de talle alto",
+          "image": "https://i.ibb.co/d2bXrDZ/16290937294fda7522c6e554147161fa2bf6f06b58.webp",
+          "Price": 350,
+          "name": "pants3",
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    {
+      "id":2,
+      "category": "shirts",
+      "image": "https://i.ibb.co/27JzvPF/1632830339c225b8952285cc29d26484576198939b-thumbnail-600x.webp",
+      "products": [
+        {
+          "category": "shirts",
+          "color": "blue",
+          "description": "print blouse",
+          "image": "https://i.ibb.co/27JzvPF/1632830339c225b8952285cc29d26484576198939b-thumbnail-600x.webp",
+          "name": "shirt1",
+          "Price": 5,
+          "size": [
+            "S",
+            "M",
+            "L"
+          ]
+        },
+        {
+          "category": "shirts",
+          "color": "pink",
+          "description": "loose blouse",
+          "image": "https://i.ibb.co/XYZ52CR/1639463382e09c8d50bcd1b22a914f1777aa2823d4-thumbnail-600x.webp",
+          "name": "shirt2",
+          "Price": 100,
+          "size": [
+            "S",
+            "M",
+            "L"
+          ]
+        },
+        {
+          "category": "shirts",
+          "color": "red",
+          "description": "flowered blouse",
+          "image": "https://i.ibb.co/f07zLQz/16395563806e5b08a29a3521841107b898de7d4576-thumbnail-600x.webp",
+          "name": "shirt3",
+          "Price": 100,
+          "size": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "id":3,
+      "category": "dresses",
+      "image": "https://i.ibb.co/r3Vz74X/dress1.webp",
+      "products": [
+        {
+          "category": "dress",
+          "color": "black",
+          "description": "White pearly dress",
+          "image": "https://i.ibb.co/r3Vz74X/dress1.webp",
+          "name": "dress1",
+          "price": 200,
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "category": "dress",
+          "color": "black",
+          "description": "flower print black dress",
+          "image": "https: //i.ibb.co/3YXs0hL/dress2.webp",
+          "name": "dress2",
+          "price": 230,
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "category": "dress",
+          "color": "black",
+          "description": "V-neck black and white dress",
+          "image": "https://i.ibb.co/mTQ19Pv/dress3.webp",
+          "name": "dress3",
+          "price": 380,
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    },
+    {
+      "id":4,
+      "category": "skirts",
+      "image": "https://i.ibb.co/5844BK1/falda3-600x.webp",
+      "products": [
+        {
+          "category": "skirt",
+          "color": "black",
+          "description": "mini skirt",
+          "image": "https://i.ibb.co/pbzstpb/falda1-600x.webp",
+          "name": "skirt1",
+          "price": 180,
+          "size": [
+            "S",
+            "M",
+            "L"
+          ]
+        },
+        {
+          "category": "skirt",
+          "color": "beige",
+          "description": "long floral skirt",
+          "image": "https://i.ibb.co/BtbKnH3/falda2-600x.webp",
+          "name": "skirt2",
+          "price": 250,
+          "size": [
+            "S",
+            "M",
+            "L"
+          ]
+        },
+        {
+          "category": "skirt",
+          "color": "pink",
+          "description": "short floral skirt",
+          "image": "https://i.ibb.co/5844BK1/falda3-600x.webp",
+          "name": "skirt3",
+          "price": 200,
+          "size": [
+            "XS",
+            "S",
+            "M"
+          ]
+        }
+      ]
+    },
+    {
+      "id":5,
+      "category": "swimsuits",
+      "image": "https://i.ibb.co/VWYRQtL/16173341445e7d36085b201d2fa94b9e21e42259c9.webp",
+      "products": [
+        {
+          "category": "swimwear",
+          "color": "red",
+          "description": "one piece",
+          "image": "https://i.ibb.co/VWYRQtL/16173341445e7d36085b201d2fa94b9e21e42259c9.webp",
+          "name": "swimwear1",
+          "price": 100,
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "category": "swimwear",
+          "color": "purple",
+          "description": "two pieces swimsuit",
+          "image": "https://i.ibb.co/9yYY0Hg/16376313593ca69b51a4c623dd66c51103b5759f9a-thumbnail-900x.webp",
+          "name": "swimwear2",
+          "price": 100,
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        },
+        {
+          "category": "swimwear",
+          "color": "blue",
+          "description": "one piece",
+          "image": "https://i.ibb.co/jH8d2QC/16385022449f646ca89517b093bba81a2ffbd15b1a-thumbnail-900x.webp",
+          "name": "swimwear3",
+          "price": 100,
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ]
+    }
+  ]
+}
